@@ -9,3 +9,6 @@ https://github.com/mockoon/mockoon
 
 GitHub - miragejs/miragejs: A client-side server to build, test and share your JavaScript app
 https://github.com/miragejs/miragejs
+
+GitHub - mswjs/msw: Seamless REST/GraphQL API mocking library for browser and Node.
+https://github.com/mswjs/msw
